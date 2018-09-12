@@ -3,3 +3,5 @@
 import astropy
 
 print "this is a test message"
+
+print "try to use git again..."
